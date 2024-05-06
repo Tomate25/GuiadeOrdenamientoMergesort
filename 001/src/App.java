@@ -2,6 +2,7 @@ public class App {
 
     public static void mergeSort (int[] arr, int left, int right) {
         if (left < right) {
+            //Abdias Natanael Lopez Rocha Carnet:2024-1354U
             // Encuentra el punto medio del arreglo
             int mid = (left + right) / 2;
 
